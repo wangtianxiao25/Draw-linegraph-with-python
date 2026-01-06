@@ -35,7 +35,7 @@
 ## 📦 打包为可执行文件
 使用 [PyInstaller](https://pyinstaller.org/) 打包：
 ```bash
-pyinstaller --onefile --windowed line_chart_app.py
+pyinstaller --onefile --windowed drawLineGraph.py
 ```
 
 # Interactive Line Chart Drawing Tool
@@ -75,5 +75,5 @@ It is suitable for quickly visualizing experimental data, performance curves, or
 ## 📦 Packaging as Executable
 Use [PyInstaller](https://pyinstaller.org/) to package:
 ```bash
-pyinstaller --onefile --windowed line_chart_app.py
+pyinstaller --onefile --windowed drawLineGraph.py
 ```
